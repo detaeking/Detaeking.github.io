@@ -4,11 +4,12 @@
 # Site settings
 title: Mintaek's
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
+  Proramming
+  Fashion
+  Shopping
+  
 owner: M.T.Kim # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+first_published: 2019 # if migrating another site, the year of your first publish
 email: misuyg@naver.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://detaeking.github.io" # the base hostname & protocol for your site
